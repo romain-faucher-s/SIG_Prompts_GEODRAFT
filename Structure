@@ -1,0 +1,15 @@
+text
+📁 SIG-Prompts-GEO-DRAFT/
+├── 📄 README_FR.md          ← Principal (copie ci-dessous)
+├── 📄 README_EN.md          ← Traduction
+├── 📁 templates/
+│   ├── ASPECCT_debutant.md
+│   ├── DROACFT_expert.md
+│   └── GEO-DRAFT_SIG.md
+├── 📁 examples/
+│   ├── qgis_carte_pop.md
+│   └── postgis_etl.md
+├── 📁 docs/
+│   └── comparatif_pdf.pdf
+└── 📁 slides/
+    └── presentation_SIG_prompts.pptx
