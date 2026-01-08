@@ -1,5 +1,5 @@
 # SIG_Prompts_GEODRAFT
-GEO-DRAFT:
+GEODRAFT: 
 G : Groupe cible (profil SIG)
 E : Environnement SIG
 O : Objectif métier / analytique
