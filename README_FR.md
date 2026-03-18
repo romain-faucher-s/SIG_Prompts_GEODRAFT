@@ -5,12 +5,6 @@ text
 [![Stars](https://img.shields.io/github/stars/ton_nom/SIG-Prompts-GEO-DRAFT)](https://github.com/ton_nom/SIG-Prompts-GEO-DRAFT)
 [![Forks](https://img.shields.io/github/forks/ton_nom/SIG-Prompts-GEO-DRAFT)](https://github.com/ton_nom/SIG-Prompts-GEO-DRAFT)
 
-## 🎯 **3 Frameworks pour SIG**
-| Framework | Public | Usage SIG |
-|-----------|--------|-----------|
-| **ASPECCT** | Agents territoriaux | Cartes QGIS rapides |
-| **DROACFT** | Formateurs SIG | Cours prompts avancés |
-| **GEO-DRAFT** | Experts PostGIS | ETL/gouvernance données |
 
 ## 🚀 **Démarrer en 30 secondes**
 ```markdown
